@@ -5,8 +5,7 @@ body {
 }
 #img-medium {
     height: 200px;
-    margin-left:auto;
-    margin-right:auto;
+    text-align:center;
 }
 .cont {
     text-align:left;
