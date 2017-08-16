@@ -3,7 +3,11 @@ body {
     background-color: white;
     margin-top: 75px;
 }
-
+#img-medium {
+    height: 200px;
+    margin-left:auto;
+    margin-right:auto;
+}
 .cont {
     text-align:left;
 }
@@ -16,11 +20,7 @@ body {
     font-weight: bold;
 }
 
-#img-medium {
-    height: 200px;
-    margin-left:auto;
-    margin-right:auto;
-}
+
 hr{
     margin-left:200px;
     margin-right:200px;
